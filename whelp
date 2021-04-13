@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>OrdatokFrontpage</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="Ordatokstylesheet.css">
+        
+          <div class="logo">
+              
+              <img class="logoimage" style="display: inline;" src="LogoOrdatok.png" alt="logo">
+          </div>
+          
+          <div class="indexlinks"><A HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><Á HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><B HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><D HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><E HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><F HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><G HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><H HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><J HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><K HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><L HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><M HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><N HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><O HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><Ó HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><P HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><R HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><S HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><T HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><U HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><Ú HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><V HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><Y HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+          <div class="indexlinks"><Ø HREF = "A.html" style="text-decoration: none; color: inherit;">A</A></div>
+            
+        
+
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        
+        <script src="" async defer></script>
+    </body>
+</html>
